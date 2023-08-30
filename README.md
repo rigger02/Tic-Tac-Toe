@@ -34,3 +34,10 @@ To run the Tic-Tac-Toe game:
 ```sh
 npm install
 npm start
+```
+
+## Credit
+*[RIGGER DAMAIARTA TEJAYANDA](https://www.instagram.com/rigger_dt/?hl=id)
+
+## Contact me
+If you have any questions or feedback regarding this project, please contact me via email at [akangrigger@gmail.com].
